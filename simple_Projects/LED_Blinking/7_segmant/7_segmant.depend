@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605271770 source:d:\avr_start\led_blinking\7_segmant\fuse.c
+	<avr/io.h>
+
+1605272900 source:d:\avr_start\led_blinking\7_segmant\main.c
+	<avr/io.h>
+	<util/delay.h>
+
